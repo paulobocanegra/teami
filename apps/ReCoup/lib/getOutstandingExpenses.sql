@@ -1,0 +1,1 @@
+select * from expense_data where payment_status not like 'Paid'

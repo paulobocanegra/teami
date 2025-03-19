@@ -1,0 +1,35 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "404e694c-041b-11f0-8dfe-b7c18a2fac69",
+  "appTemplate": {
+    "appThemeId": "custom",
+    "pageCodeFolders": {
+      "object": {
+        "Wallet": {
+          "array": []
+        },
+        "Expenses": {
+          "array": []
+        },
+        "SpendLimits": {
+          "array": []
+        }
+      }
+    },
+    "customComponentCollections": {
+      "array": [
+        {
+          "object": {
+            "collectionName": "ReCoupCCL",
+            "collectionRevisionUuid": "734d7736-ed1c-471b-9084-90d43258a643",
+            "collectionUuid": "4b15f364-521e-4e22-b743-25160c00ee8b"
+          }
+        }
+      ]
+    },
+    "rootScreen": "Wallet",
+    "version": "3.172.0",
+    "experimentalDataTabEnabled": true
+  }
+}

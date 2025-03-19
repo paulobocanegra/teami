@@ -1,0 +1,166 @@
+{
+  "button4": {
+    "type": "stack",
+    "container": "stack1",
+    "subcontainer": "0417b",
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 170,
+        "height": 47
+      }
+    }
+  },
+  "button5": {
+    "type": "stack",
+    "container": "stack1",
+    "subcontainer": "0417b",
+    "row": 1,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 185,
+        "height": 45
+      }
+    }
+  },
+  "collapsibleContainer1": {
+    "row": 2.8,
+    "height": 1,
+    "width": 2,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "collapsibleTitle1": {
+    "container": "collapsibleContainer1",
+    "rowGroup": "header",
+    "subcontainer": "e732b",
+    "col": 3,
+    "height": 0.8,
+    "width": 9
+  },
+  "collapsibleToggle1": {
+    "container": "collapsibleContainer1",
+    "rowGroup": "header",
+    "subcontainer": "e732b",
+    "height": 0.8,
+    "width": 2
+  },
+  "container2": {
+    "container": "listView1",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "icon3": {
+    "type": "stack",
+    "container": "container2",
+    "subcontainer": "48828",
+    "row": 2.4,
+    "height": 0.6,
+    "width": 1,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 54,
+        "height": 45
+      }
+    }
+  },
+  "listView1": {
+    "container": "collapsibleContainer1",
+    "subcontainer": "e732b",
+    "row": 0.8,
+    "height": 18,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "stack1": {
+    "row": 0.6,
+    "col": 8,
+    "height": 3.8,
+    "width": 4
+  },
+  "stack3": {
+    "type": "stack",
+    "container": "container2",
+    "subcontainer": "48828",
+    "col": 4,
+    "height": 3.8,
+    "width": 8,
+    "stackPosition": {
+      "object": {
+        "ordinal": 2,
+        "widthType": "auto",
+        "width": 185,
+        "height": 104
+      }
+    }
+  },
+  "table1": {
+    "row": 4.6,
+    "col": 2,
+    "height": 20.2,
+    "width": 10
+  },
+  "text1": {
+    "row": 1.2,
+    "height": 0.6
+  },
+  "text41": {
+    "type": "stack",
+    "container": "stack3",
+    "subcontainer": "0417b",
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 195,
+        "height": 24
+      }
+    }
+  },
+  "text42": {
+    "type": "stack",
+    "container": "stack3",
+    "subcontainer": "0417b",
+    "row": 0.6,
+    "height": 0.6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 1,
+        "widthType": "fixed",
+        "width": 117,
+        "height": 24
+      }
+    }
+  }
+}
