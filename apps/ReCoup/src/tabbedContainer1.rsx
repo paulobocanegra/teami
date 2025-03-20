@@ -45,6 +45,7 @@
         />
       </Header>
       <View id="9687e" viewKey="View 1">
+        <Text id="text45" value="#### Requests" verticalAlign="center" />
         <TextInput
           id="textInput3"
           iconBefore="line/interface-search"
@@ -52,7 +53,6 @@
           labelPosition="top"
           placeholder="Search expenses"
         />
-        <Text id="text45" value="#### Requests" verticalAlign="center" />
         <Table
           id="table4"
           cellSelection="none"
