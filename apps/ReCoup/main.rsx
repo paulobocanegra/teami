@@ -1,7 +1,4 @@
 <App>
-  <Include src="./src/Wallet.rsx" />
-  <Include src="./src/Expenses.rsx" />
-  <Include src="./src/SpendLimits.rsx" />
   <CustomAppTheme
     id="$appTheme"
     _migrated={true}
@@ -40,7 +37,10 @@
     textLight="#ffffff"
     warning="#cd6f00"
   />
+  <Include src="./src/Expenses.rsx" />
+  <Include src="./src/SpendLimits.rsx" />
   <Include src="./src/Tasks.rsx" />
+  <Include src="./src/Wallet.rsx" />
   <Include src="./header.rsx" />
   <Include src="./sidebar.rsx" />
 </App>
